@@ -10,7 +10,8 @@
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+This project utilized Udacity datafiles Chicago.csv, Washington.csv, and New_York_City.csv.
+These datafiles contain abridged bikeshare data for exploration using the Bikeshare.py program
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
