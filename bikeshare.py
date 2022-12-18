@@ -41,7 +41,7 @@ def get_filters():
     if datefilter == "month":
         day = 'all'
         while True:
-            month = input('Which month? January, February, March, April, May, or June?').lower()
+            month = input('Which month? January, February, March, April, May, or June? (Months after June are not included in dataset)').lower()
             if month in MONTHS:
                 break
             else:
